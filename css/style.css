@@ -20,10 +20,10 @@ body{
   .topnav a {
     float: right;
     display: block;
-    color: rgb(25, 64, 109);;
+    color: rgb(25, 64, 109);
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: rgb(2, 16, 22);
     font-size: 14px;
     font-weight: bold;
   }
@@ -83,7 +83,7 @@ body{
 #showcase h1{
     color: #fff;
     font-size: 50px;
-    line-height: 1.5em;
+    line-height: 1em;
 }
 
 #showcase p{
