@@ -1,2 +1,3 @@
 # tamimi
-This is a simple landing page i created 
+This is a simple landing page i created using....
+HTML, CSS, JavaScript
