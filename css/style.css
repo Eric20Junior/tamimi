@@ -159,6 +159,7 @@ body{
     text-align: center;
     background-color: #d6d5d5;
     height: 300px;
+    height: 400px;
 }
 
 #testimonials h5{
@@ -243,3 +244,9 @@ body{
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
   }
+@media screen and (main-width: 600px) {
+    .block{
+        width: 100%;
+        float: none;
+    }
+}
