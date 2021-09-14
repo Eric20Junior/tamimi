@@ -49,7 +49,7 @@ body{
     .topnav a.icon {
       float: right;
       display: block;
-      background-color: rgb(25, 64, 109);
+      /* background-color: rgb(25, 64, 109); */
     }
   }
   
