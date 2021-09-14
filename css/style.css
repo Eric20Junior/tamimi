@@ -140,19 +140,22 @@ body{
 }
 
 #services{
-    text-align: center;
+  text-align: center;
 }
 
 #services h5{
-    color: rgb(25, 64, 109);
+  color: rgb(25, 64, 109);
 }
 
+@media(min-width:600px) {
+  
 .block{
     float: left;
     width: 33.3%;
     padding: 20px;
     box-sizing: border-box;
     margin-bottom: 30px;
+}
 }
 
 #testimonials{
